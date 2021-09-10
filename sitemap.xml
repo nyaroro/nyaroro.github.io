@@ -2,9 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hidarishio.github.io/2021/09/04/%E5%8A%A8%E7%94%BB%E6%97%A5%E8%AE%B02/</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hidarishio.github.io/2021/09/06/%E5%8A%A8%E7%94%BB%E6%97%A5%E8%AE%B03/</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hidarishio.github.io/2021/09/09/%E5%8A%A8%E7%94%BB%E6%97%A5%E8%AE%B04/</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://hidarishio.github.io/2021/09/10/%E5%8A%A8%E7%94%BB%E6%97%A5%E8%AE%B05/</loc>
+    
+    <lastmod>2021-09-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://hidarishio.github.io/2021/08/24/mmd%E6%97%A5%E8%AE%B0-1/</loc>
     
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     
   </url>
   
@@ -46,7 +74,7 @@
 
   <url>
     <loc>https://hidarishio.github.io/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,42 +82,49 @@
   
   <url>
     <loc>https://hidarishio.github.io/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hidarishio.github.io/tags/E%E7%AB%99/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hidarishio.github.io/tags/%E6%AC%A2%E8%BF%8E/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hidarishio.github.io/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hidarishio.github.io/tags/MMD/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://hidarishio.github.io/tags/MMD%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-08-26</lastmod>
+    <lastmod>2021-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://hidarishio.github.io/tags/%E5%8A%A8%E7%94%BB/</loc>
+    <lastmod>2021-09-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
